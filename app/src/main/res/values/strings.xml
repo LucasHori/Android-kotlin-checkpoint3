@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lucas_hori_rm89024_check</string>
+
+        <string name="string_valor_transferencia">Qual é o valor da transferência pix?</string>
+        <string name="botao_continuar">Continuar</string>
+        <string name="digite_o_valor">Digite o Valor</string>
+        <string name="digite_a_chave_pix">Digite a chave pix</string>
+        <string name="confirmar_transferencia">Confirmar transferencia</string>
+        <string name="revisar_chave_pix">Revisar chave pix</string>
+</resources>
